@@ -80,9 +80,5 @@ The website is optimized for:
 ![image](https://github.com/user-attachments/assets/a6e2d86f-4259-4518-b559-c7c56e36bf21)
 
 
-
-## Credits
-Designed and developed by [Princess Debra] as a portfolio project.
-
 ## License
 This project is for educational purposes only. All KFC branding and imagery are property of KFC.
